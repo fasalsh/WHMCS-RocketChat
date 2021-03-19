@@ -167,4 +167,3 @@ class RocketChat implements NotificationModuleInterface
         curl_close($ch);
     }
 }
-}
