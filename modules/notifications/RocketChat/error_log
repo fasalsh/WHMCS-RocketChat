@@ -1,2 +1,0 @@
-[15-Mar-2021 17:24:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/demoserverhealer/public_html/modules/notifications/WHMCS-RocketChat/modules/notifications/RocketChat/RocketChat.php on line 165
-[15-Mar-2021 17:31:47 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/demoserverhealer/public_html/modules/notifications/WHMCS-RocketChat/modules/notifications/RocketChat/RocketChat.php on line 170
